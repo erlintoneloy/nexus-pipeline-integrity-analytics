@@ -63,7 +63,7 @@ Ejecución: Correr todas las celdas para procesar y disparar la sincronización.
 ### ☁️ Almacenamiento en la Nube
 ![BigQuery Results](images/google_bigquery.png)
 
-### 🏠 Sincronización Local (Cagua, Venezuela)
+### 🏠 Sincronización Local
 ![PostgreSQL Local](images/local_postgres.png)
 
 
