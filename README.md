@@ -69,9 +69,8 @@ Ejecución: Correr todas las celdas para procesar y disparar la sincronización.
 
 ### -
 # 👤 Autor
-## Erlinton Eloy Eligon Pineda
+## Erlinton Eligon 
 ## Junior Data Engineer | IT Specialist
 
-### LinkedIn
-### 
-### Blog: ¡Datos, luego existo!
+## LinkedIn: [linkedin.com/in/erlinton-eligon-1a5ab7302](https://www.linkedin.com/in/erlinton-eligon-1a5ab7302)
+## Blog Personal: [¡Datos, luego existo!](https://erlintoneloy.blogspot.com/)
