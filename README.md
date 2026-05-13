@@ -56,6 +56,17 @@ Configurar el cluster con el runtime 14.3 LTS.
 Instalar librerías: psycopg2-binary, sqlalchemy.
 
 Ejecución: Correr todas las celdas para procesar y disparar la sincronización.
+
+### 🖥️ Entorno de Trabajo
+![Databricks Workspace](images/databricks_env.png)
+
+### ☁️ Almacenamiento en la Nube
+![BigQuery Results](images/google_bigquery.png)
+
+### 🏠 Sincronización Local (Cagua, Venezuela)
+![PostgreSQL Local](images/local_postgres.png)
+
+
 ### -
 # 👤 Autor
 ## Erlinton Eloy Eligon Pineda
