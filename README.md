@@ -69,7 +69,7 @@ Ejecución: Correr todas las celdas para procesar y disparar la sincronización.
 ### 📊 Reporte Ejecutivo de Analítica
 El pipeline consolida un centro de control operativo optimizado para la toma de decisiones en planta. Puedes visualizar y descargar el reporte completo en PDF aquí:
 
-👉 **[Descargar Reporte Ejecutivo (PDF)](images/Pipeline%20Corrosion%20Analysis%202026-05-30%2017_52.pdf)**
+👉 **[Descargar Reporte Ejecutivo (PDF)](images/images/pipeline_corrosion_analysis.pdf)**
 
 👉 **[Ver Notebook Interactivo "01_Nexus_ETL_Sync.ipynb" en nbviewer]**(https://nbviewer.org/github/erlintoneloy/nexus-pipeline-integrity-analytics/blob/main/01_Nexus_ETL_Sync.ipynb)
 
